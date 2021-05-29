@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  color: white;
+  font-size: 18px;
+}
+
+.footer {
+  padding: 10px 0;
+  background: #444;
+}
+.nova {
+  color: white;
+  text-decoration: none;
+}
+.nova:hover {
+  text-decoration: none;
+  color: blue;
+}
